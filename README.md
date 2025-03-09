@@ -2,7 +2,7 @@
 
 ## Meine Projekte
 - [Kiosk-Projekt](https://github.com/NilsFa1/kiosk-projekt): Eine moderne, KI-gestützte Webanwendung für Kioske/kleine Läden.
-- [bpac-js](https://github.com/NilsFa1/bpac-js): JavaScript-Bibliothek für Brother-Drucker.
+- [bpac-js](https://github.com/NilsFa1/bpac-js): JavaScript-Bibliothek für Brother-Thermaldrucker.
 
 ### 🚀 Technologien & Tools:
 <p align="left">
